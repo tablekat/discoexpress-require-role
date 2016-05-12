@@ -1,0 +1,19 @@
+{
+  "name": "discoexpress-require-role",
+  "version": "1.0.0",
+  "description": "Middleware to require a role",
+  "main": "requireRole.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tablekat/discoexpress-require-role.git"
+  },
+  "author": "tablekat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tablekat/discoexpress-require-role/issues"
+  },
+  "homepage": "https://github.com/tablekat/discoexpress-require-role#readme"
+}
